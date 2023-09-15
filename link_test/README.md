@@ -65,6 +65,6 @@ Launch: `python3 link_test_m720.py  --power 3 --type optic`
 
 * **manual**
 
-Start the manual test function with manual recovery of modules from the switch. It is necessary to set the correct values in the SWITCH1_CONNECTION_DATA variable to connect to the switch in which the M720 modules are installed by port B, SWITCH2_CONNECTION_DATA to connect to the switch in which the M720 modules are installed by port 
+Start the manual test function with manual recovery of modules from the switch. It is necessary to set the correct values in the SWITCH1_CONNECTION_DATA variable to connect to the switch in which the M720 modules are installed by port B, SWITCH2_CONNECTION_DATA to connect to the switch in which the M720 modules are installed by port A.
 
 Launch: `python3 link_test_m720.py  --manual --type copper`
